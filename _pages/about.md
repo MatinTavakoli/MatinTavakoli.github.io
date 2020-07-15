@@ -16,7 +16,7 @@ Teaching Assistant
 Advanced Programming(Spring 2019) <br>
 
 Linear Algebra(Spring 2020) <br>
-https://github.com/MatinTavakoli/Linear-Algebra (slides created by Matin Tavakoli & Hossein Zaredar)
+https://github.com/MatinTavakoli/Linear-Algebra (Me & Hossein Zaredar created slides for the whole course!)
 
 Interests
 ------
