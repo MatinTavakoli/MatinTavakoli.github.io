@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matin Tavakoli"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :
   location         : "Tehran, Iran"
   employer         :
   pubmed           :
