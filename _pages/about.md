@@ -27,7 +27,7 @@ Projects
 * [Operating Systems](https://github.com/arashHarirpoosh/OS_FinalProject)
 * [Database](https://github.com/MatinTavakoli/Database)
 * [SignalsAndSystems](https://github.com/MatinTavakoli/SignalsAndSystems)
-* [Programming Lanugager](https://github.com/MatinTavakoli/Programming-Languages)
+* [Programming Languages](https://github.com/MatinTavakoli/Programming-Languages)
 
 Teaching Assistant
 ------
