@@ -13,11 +13,10 @@ B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran,
 
 Teaching Assistant
 ------
-* Advanced Programming(Spring 2019) <br>
-
 * Linear Algebra(Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
 <br>I created slides for the whole course!
 
+* Advanced Programming(Spring 2019) <br>
 
 Interests
 ------
