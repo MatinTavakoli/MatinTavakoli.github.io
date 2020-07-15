@@ -16,7 +16,8 @@ B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran,
 
 Experiences
 ------
-AUT ICPC(Fall 2018)
+Staff at AUT ICPC(Fall 2018)
+Staff at Amirkabir Programming League(Spring 2019)
 
 
 Teaching Assistant
