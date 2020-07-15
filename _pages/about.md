@@ -11,11 +11,11 @@ Education
 ------
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - current
 
-Teaching
+Teaching Assistant
 ------
-Teaching Assistant: Advanced Programming(Spring 2019) <br>
+Advanced Programming(Spring 2019) <br>
 
-Teaching Assistant: Linear Algebra(Spring 2020)
+Linear Algebra(Spring 2020)
 
 Interests
 ------
