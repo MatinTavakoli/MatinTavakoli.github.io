@@ -21,6 +21,6 @@ Teaching Assistant
 
 Interests
 ------
-Artificial Intellegence <br>
+* Artificial Intellegence <br>
 
-Data Science & Machine Learning
+* Data Science & Machine Learning
