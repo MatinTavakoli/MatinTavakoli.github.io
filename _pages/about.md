@@ -19,10 +19,13 @@ Experiences
 * Staff at AUT ICPC(Fall 2018) <br>
 * Staff at Amirkabir Programming League(Spring 2019)
 
+
 Projects
 ------
-* [Advanced Programming: ](https://github.com/MatinTavakoli/Advanced-Programming)
-* [Artificial Intelligence](https://github.com/MatinTavakoli/Artificial-Intelligence)
+* [Advanced Programming: ](https://github.com/MatinTavakoli/Advanced-Programming) <br>
+* [Artificial Intelligence: ](https://github.com/MatinTavakoli/Artificial-Intelligence)
+
+
 Teaching Assistant
 ------
 
@@ -31,8 +34,10 @@ Teaching Assistant
 
 * Advanced Programming(Spring 2019) <br>
 
+
 Interests
 ------
 * Artificial Intellegence <br>
 
 * Data Science & Machine Learning
+
