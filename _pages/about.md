@@ -22,8 +22,8 @@ Experiences
 
 Projects
 ------
-* [Advanced Programming: ](https://github.com/MatinTavakoli/Advanced-Programming) <br>
-* [Artificial Intelligence: ](https://github.com/MatinTavakoli/Artificial-Intelligence)
+* [Advanced Programming](https://github.com/MatinTavakoli/Advanced-Programming) <br>
+* [Artificial Intelligence](https://github.com/MatinTavakoli/Artificial-Intelligence)
 
 
 Teaching Assistant
