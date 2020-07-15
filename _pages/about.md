@@ -16,8 +16,10 @@ Experiences
 ------
 AUT ICPC(Fall 2018)
 
+---
 Teaching Assistant
 ------
+
 * Linear Algebra(Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
 <br>I created slides for the whole course!
 
