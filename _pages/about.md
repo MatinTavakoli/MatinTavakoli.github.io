@@ -7,11 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Section 1
+Education
 ------
-some text...
+Amirkabir University of Technology
+6th Semester in B.Sc.
 
-Section 2
+Teaching
 ------
-some text...
+Teaching Assistant: Advanced Programming(Spring 2019)
+Teaching Assistant: Linear Algebra(Spring 2020)
+
+Interests
+------
+Artificial Intellegence
+Data Science & Machine Learning
