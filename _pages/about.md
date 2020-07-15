@@ -9,9 +9,7 @@ redirect_from:
 ---
 Education
 ------
-Amirkabir University of Technology <br>
-
-6th Semester in B.Sc.
+B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - current
 
 Teaching
 ------
