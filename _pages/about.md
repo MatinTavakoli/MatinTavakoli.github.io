@@ -38,7 +38,7 @@ Experiences
 
 Interests
 ------
-* Artificial Intellegence <br>
-
 * Data Science & Machine Learning
-
+* Signal Processing
+* Cryptography
+* Computer Graphics
