@@ -26,8 +26,8 @@ Projects
 
 Technical Skills
 -----
-* Programming Development: C, Java, Python, Verilog, VHDL, postgreSQL, Racket, Latex
-* Other: Arduino, Proteus
+* Programming Development: C, Java, Python, Verilog, VHDL, postgreSQL, Racket
+* Other: Latex, Arduino, Proteus
 
 
 Teaching Assistant
