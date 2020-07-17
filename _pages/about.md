@@ -17,7 +17,7 @@ Projects
 ------
 * [Advanced Programming](https://github.com/MatinTavakoli/Advanced-Programming)
 * [Artificial Intelligence](https://github.com/MatinTavakoli/Artificial-Intelligence)
-* [Operating Systems](https://github.com/arashHarirpoosh/OS_FinalProject)
+* [Operating Systems](https://github.com/MatinTavakoli/Operating-Systems)
 * [Database](https://github.com/MatinTavakoli/Database)
 * [SignalsAndSystems](https://github.com/MatinTavakoli/SignalsAndSystems)
 * [Programming Languages](https://github.com/MatinTavakoli/Programming-Languages)
