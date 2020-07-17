@@ -36,6 +36,12 @@ Experiences
 * Staff at Amirkabir Programming League(Spring 2019)
 
 
+Honours
+------
+* Accepted in the first level of Iranian Physics Olympiad Exam, 2015
+* Accepted in the first level of Iranian Mathematics and Computer Olympiad Exam, 2016
+
+
 Interests
 ------
 * Data Science & Machine Learning
