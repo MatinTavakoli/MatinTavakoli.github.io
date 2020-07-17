@@ -40,7 +40,7 @@ Teaching Assistant
 
 Experiences
 ------
-* Staff at AUT ICPC (Fall 2018) <br>
+* Staff at AUT ICPC (Fall 2018)
 * Staff at Amirkabir Programming League (Spring 2019)
 
 
