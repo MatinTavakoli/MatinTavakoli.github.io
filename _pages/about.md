@@ -13,6 +13,7 @@ Education
 ------
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - current
 
+
 Projects
 ------
 * [Advanced Programming](https://github.com/MatinTavakoli/Advanced-Programming)
@@ -22,13 +23,20 @@ Projects
 * [SignalsAndSystems](https://github.com/MatinTavakoli/SignalsAndSystems)
 * [Programming Languages](https://github.com/MatinTavakoli/Programming-Languages)
 
+
+Technical Skills
+-----
+* Programming Development: C, Java, Python, Verilog, VHDL, PLpgSQL, Racket, Latex
+* Other: Arduino, Proteus
+
+
 Teaching Assistant
 ------
-
 * Linear Algebra(Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
 <br>Created slides for the whole course!
 
 * Advanced Programming(Spring 2019) <br>
+
 
 Experiences
 ------
@@ -48,3 +56,4 @@ Interests
 * Signal Processing
 * Cryptography
 * Computer Graphics
+
