@@ -35,7 +35,7 @@ Teaching Assistant
 * Linear Algebra (Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
 <br>Created slides for the whole course!
 
-* Advanced Programming (Spring 2019) <br>
+* Advanced Programming (Spring 2019)
 
 
 Experiences
