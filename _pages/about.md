@@ -32,16 +32,16 @@ Technical Skills
 
 Teaching Assistant
 ------
-* Linear Algebra(Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
+* Linear Algebra (Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
 <br>Created slides for the whole course!
 
-* Advanced Programming(Spring 2019) <br>
+* Advanced Programming (Spring 2019) <br>
 
 
 Experiences
 ------
-* Staff at AUT ICPC(Fall 2018) <br>
-* Staff at Amirkabir Programming League(Spring 2019)
+* Staff at AUT ICPC (Fall 2018) <br>
+* Staff at Amirkabir Programming League (Spring 2019)
 
 
 Honours
