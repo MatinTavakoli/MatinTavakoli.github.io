@@ -16,8 +16,9 @@ B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran,
 
 Projects
 ------
-* [Advanced Programming](https://github.com/MatinTavakoli/Advanced-Programming)
 * [Artificial Intelligence](https://github.com/MatinTavakoli/Artificial-Intelligence)
+* [Computational Intelligence](https://github.com/MatinTavakoli/Computational-Intelligence)
+* [Advanced Programming](https://github.com/MatinTavakoli/Advanced-Programming)
 * [Operating Systems](https://github.com/MatinTavakoli/Operating-Systems)
 * [Database](https://github.com/MatinTavakoli/Database)
 * [Signals and Systems](https://github.com/MatinTavakoli/SignalsAndSystems)
@@ -26,12 +27,18 @@ Projects
 
 Technical Skills
 -----
-* Programming Development: C, Java, Python, Verilog, VHDL, postgreSQL, Racket
+* Programming Development: Python, Java, C, Verilog, VHDL, postgreSQL, Racket
 * Other: Latex, Arduino, Proteus
 
 
 Teaching Assistant
 ------
+* Data Structures & Algorithms (Fall 2020): [DS content](https://github.com/MatinTavakoli/Data-Structures-and-Algorithms)
+<br>Created a series of slides and animations for the course!
+
+* Signals & Systems (Fall 2020): [Signal content](https://github.com/HosseinZaredar/Signals-and-Systems)
+<br>Contributed to a series of slides and animations for the course!
+
 * Linear Algebra (Spring 2020): [Linear Algebra Slides](https://github.com/MatinTavakoli/Linear-Algebra)
 <br>Created slides for the whole course!
 
@@ -52,8 +59,10 @@ Honours
 
 Interests
 ------
-* Data Science & Machine Learning
-* Signal Processing
-* Cryptography
-* Computer Graphics
+* Artificial Intelligence & Machine Learning
+* Soft Computing
+* Linear Algebra
+* Data Structures & Algorithms
+* Psychology
+* Football
 
