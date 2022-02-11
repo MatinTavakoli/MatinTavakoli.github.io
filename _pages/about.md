@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ------
-B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - current
+B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - 2021
+M.Sc. in Electrical and Computer Engineering, University of Alberta, Alberta, Canada, 2022 - current
 
 
 Projects
 ------
+* [BSc Project](https://github.com/MatinTavakoli/BSc-Project)
 * [Artificial Intelligence](https://github.com/MatinTavakoli/Artificial-Intelligence)
 * [Computational Intelligence](https://github.com/MatinTavakoli/Computational-Intelligence)
 * [Advanced Programming](https://github.com/MatinTavakoli/Advanced-Programming)
@@ -33,6 +35,9 @@ Technical Skills
 
 Teaching Assistant
 ------
+* Computational Intelligence (Spring 2021): [CI content](https://github.com/HosseinZaredar/Computational-Intelligence)
+<br>Contributed to a series of slides and projects for the course!
+
 * Data Structures & Algorithms (Fall 2020): [DS content](https://github.com/MatinTavakoli/Data-Structures-and-Algorithms)
 <br>Created a series of slides and animations for the course!
 
@@ -61,8 +66,7 @@ Interests
 ------
 * Artificial Intelligence & Machine Learning
 * Soft Computing
-* Linear Algebra
-* Data Structures & Algorithms
 * Psychology
+* Neuroscience
 * Football
 
