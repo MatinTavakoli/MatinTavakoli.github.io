@@ -66,7 +66,7 @@ Interests
 ------
 * Artificial Intelligence & Machine Learning
 * Soft Computing
-* Psychology
 * Neuroscience
+* Psychology
 * Football
 
