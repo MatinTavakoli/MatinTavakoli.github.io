@@ -15,6 +15,11 @@ M.Sc. in Electrical and Computer Engineering, University of Alberta, Alberta, Ca
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - 2021
 
 
+Publications
+------
+* [MIPE: Towards Cleaning the Datasets of Autonomous Driving Systems using Multi-modal Information Processing and Confident Learning](https://ieeexplore.ieee.org/document/10271748)
+<br>IEEE Transactions on Intelligent Vehicles (IF: 8.2)
+
 Projects
 ------
 * [BSc Project](https://github.com/MatinTavakoli/BSc-Project)
