@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
+M.Sc. in Electrical and Computer Engineering, University of Alberta, Alberta, Canada, 2022 - 2023
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - 2021
-M.Sc. in Electrical and Computer Engineering, University of Alberta, Alberta, Canada, 2022 - current
 
 
 Projects
@@ -29,8 +29,17 @@ Projects
 
 Technical Skills
 -----
-* Programming Development: Python, Java, C, Verilog, VHDL, postgreSQL, Racket
-* Other: Latex, Arduino, Proteus
+* Programming Development: Python, PyTorch, NumPy, Java, C
+* Other: TensorFlow, TFX, Keras, scikit-learn, Pandas, PostgreSQL, Docker, Latex, Arduino
+
+Research Assistant (Supervisor: Lei Ma)
+------
+* Conducted literature reviews and synthesized research findings in data quality assurance.
+* Assisted with the design of experiments, study protocols, and implementation.
+* Identified and resolved data issues to drive accuracy and integrity.
+* Analyzed qualitative and quantitative data using various metrics.
+* Drafted and submitted manuscripts for publication in academic journals based on research findings (IEEE T-IV).
+* Coordinated recruitment efforts for research studies by developing advertisements, screening applicants.
 
 
 Teaching Assistant
@@ -64,9 +73,10 @@ Honours
 
 Interests
 ------
+* Computer Vision
+* Autonomous Vehicles
 * Artificial Intelligence & Machine Learning
-* Soft Computing
+* Reinforcement Learning
 * Neuroscience
 * Psychology
-* Football
 
