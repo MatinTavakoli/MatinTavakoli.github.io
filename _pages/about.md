@@ -32,7 +32,7 @@ Technical Skills
 * Programming Development: Python, PyTorch, NumPy, Java, C
 * Other: TensorFlow, TFX, Keras, scikit-learn, Pandas, PostgreSQL, Docker, Latex, Arduino
 
-Research Assistant (Supervisor: Lei Ma)
+Research Assistant (Supervisor: [Lei Ma](https://www.malei.org/))
 ------
 * Conducted literature reviews and synthesized research findings in data quality assurance.
 * Assisted with the design of experiments, study protocols, and implementation.
