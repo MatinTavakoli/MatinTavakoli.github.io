@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ------
+P.hD. in Electrical Engineering and Computer Science, York University, Ontario, Canada, 2024 - 
 M.Sc. in Electrical and Computer Engineering, University of Alberta, Alberta, Canada, 2022 - 2023
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - 2021
 
 
-Publications
+Publications ([Scholar](https://scholar.google.com/citations?user=dSaBcsEAAAAJ&hl=en))
 ------
 * [MIPE: Towards Cleaning the Datasets of Autonomous Driving Systems using Multi-modal Information Processing and Confident Learning](https://ieeexplore.ieee.org/document/10271748)
 <br>IEEE Transactions on Intelligent Vehicles (IF: **8.2**)
@@ -78,6 +79,7 @@ Honours
 
 Interests
 ------
+* Multimodal Learning
 * Computer Vision
 * Autonomous Vehicles
 * Artificial Intelligence & Machine Learning
