@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-P.hD. in Electrical Engineering and Computer Science, York University, Ontario, Canada, 2024 - 
+Ph.D. in Electrical Engineering and Computer Science, York University, Ontario, Canada, 2024 - 
 M.Sc. in Electrical and Computer Engineering, University of Alberta, Alberta, Canada, 2022 - 2023
 B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2017 - 2021
 
