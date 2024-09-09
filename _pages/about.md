@@ -19,7 +19,7 @@ B.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran,
 Publications ([Scholar](https://scholar.google.com/citations?user=dSaBcsEAAAAJ&hl=en))
 ------
 * [MIPE: Towards Cleaning the Datasets of Autonomous Driving Systems using Multi-modal Information Processing and Confident Learning](https://ieeexplore.ieee.org/document/10271748)
-<br>IEEE Transactions on Intelligent Vehicles (IF: **8.2**)
+<br>IEEE Transactions on Intelligent Vehicles (IF: **14**)
 
 Projects
 ------
